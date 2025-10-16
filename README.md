@@ -18,6 +18,9 @@ Medir y reportar:
 
 - [Contacto](#contacto)
 
+## Ejecutable
+El ejecutable se encuentra en la carpeta "Ejercicio_1_Portable_funcionando", el mismo funciona en cualquier computadora ya que tiene instalado el JDK y el JRE necesarios para la correcta ejecución del mismo.
+
 ## Contacto
 
 Máximo Vinuesa - [@Linkedin](https://www.linkedin.com/in/maximo-vinuesa/) - [@Gmail](maxivinuesa23@gmail.com)
