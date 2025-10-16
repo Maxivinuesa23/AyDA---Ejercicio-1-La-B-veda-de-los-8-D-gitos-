@@ -2,7 +2,7 @@
   <artifact type="jar" name="ejercicio_1:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/ejercicio_1_jar</output-path>
     <root id="archive" name="ejercicio_1.jar">
-      <element id="module-output" name="ejercicio_1" />
+      <element id="module-output" name="ejercicio1" />
     </root>
   </artifact>
 </component>
